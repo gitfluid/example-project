@@ -1,0 +1,19 @@
+{
+  "name": "example-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfluid/example-project.git"
+  },
+  "author": "Trevor Harwell <trevor.harwell@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitfluid/example-project/issues"
+  },
+  "homepage": "https://github.com/gitfluid/example-project#readme"
+}
