@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gitfluid/example-project/issues"
   },
-  "homepage": "https://github.com/gitfluid/example-project#readme"
+  "homepage": "https://github.com/gitfluid/example-project#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
