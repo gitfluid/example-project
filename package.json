@@ -1,6 +1,6 @@
 {
   "name": "example-project",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gitfluid/example-project/issues"
   },
-  "homepage": "https://github.com/gitfluid/example-project#readme"
+  "homepage": "https://github.com/gitfluid/example-project#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
